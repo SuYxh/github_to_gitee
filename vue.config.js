@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/github_action_demo'
+  publicPath: '/github_to_gitee'
 }
